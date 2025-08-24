@@ -28,11 +28,6 @@ This project is a personal resume website built with HTML frames. All source fil
 
 To view the resume, simply open [`main_frame.html`](attachments/main_frame.html) in any web browser.
 
-## Customization
 
-- Update the HTML files in the [`attachments`](attachments) folder to modify your resume content.
-- Edit `style.css` to change the appearance.
 
 ---
-
-**Note:** HTML frames are considered outdated for modern web development, but are used here for
