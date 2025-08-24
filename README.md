@@ -1,1 +1,1 @@
-# we_technology
+# web_technology
